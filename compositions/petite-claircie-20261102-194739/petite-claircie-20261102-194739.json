@@ -1,0 +1,99 @@
+{
+  "title": "Petite éclaircie",
+  "key": "C",
+  "scale": "major",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "petite-claircie-20261102-194739.mscz",
+  "mid": "petite-claircie-20261102-194739.mid",
+  "pdf": "petite-claircie-20261102-194739.pdf",
+  "preview": "petite-claircie-20261102-194739.png",
+  "created_at": "2026-11-02T19:49:12+0100",
+  "updated_at": "2026-11-02T19:49:12+0100"
+}
