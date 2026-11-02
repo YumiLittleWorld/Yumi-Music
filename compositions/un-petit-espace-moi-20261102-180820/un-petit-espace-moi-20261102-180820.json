@@ -1,0 +1,239 @@
+{
+  "title": "Un petit espace à moi",
+  "key": "C",
+  "scale": "major",
+  "tempo": 84,
+  "measures": 4,
+  "events": [
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 59,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 59,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 59,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 55,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "un-petit-espace-moi-20261102-180820.mscz",
+  "mid": "un-petit-espace-moi-20261102-180820.mid",
+  "pdf": "un-petit-espace-moi-20261102-180820.pdf",
+  "preview": "un-petit-espace-moi-20261102-180820.png",
+  "created_at": "2026-11-02T18:09:53+0100",
+  "updated_at": "2026-11-02T18:09:53+0100"
+}
