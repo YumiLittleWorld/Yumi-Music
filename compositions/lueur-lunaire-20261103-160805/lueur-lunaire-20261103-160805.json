@@ -1,0 +1,239 @@
+{
+  "title": "Lueur lunaire",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 72,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "lueur-lunaire-20261103-160805.mscz",
+  "mid": "lueur-lunaire-20261103-160805.mid",
+  "pdf": "lueur-lunaire-20261103-160805.pdf",
+  "preview": "lueur-lunaire-20261103-160805.png",
+  "created_at": "2026-11-03T16:09:38+0100",
+  "updated_at": "2026-11-03T16:09:38+0100"
+}
