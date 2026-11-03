@@ -1,0 +1,239 @@
+{
+  "title": "Clair de veille",
+  "key": "A",
+  "scale": "minor",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 74,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 77,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 79,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 77,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 81,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 77,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 77,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 79,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 76,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 74,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 77,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 79,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 83,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 79,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 83,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 86,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 89,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "clair-de-veille-20261103-235129.mscz",
+  "mid": "clair-de-veille-20261103-235129.mid",
+  "pdf": "clair-de-veille-20261103-235129.pdf",
+  "preview": "clair-de-veille-20261103-235129.png",
+  "created_at": "2026-11-03T23:53:02+0100",
+  "updated_at": "2026-11-03T23:53:02+0100"
+}
