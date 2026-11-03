@@ -1,0 +1,85 @@
+{
+  "title": "Clair de lune tranquille",
+  "key": "C",
+  "scale": "major",
+  "tempo": 72,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        1
+      ]
+    }
+  ],
+  "mscz": "clair-de-lune-tranquille-20261103-204639.mscz",
+  "mid": "clair-de-lune-tranquille-20261103-204639.mid",
+  "pdf": "clair-de-lune-tranquille-20261103-204639.pdf",
+  "preview": "clair-de-lune-tranquille-20261103-204639.png",
+  "created_at": "2026-11-03T20:48:12+0100",
+  "updated_at": "2026-11-03T20:48:12+0100"
+}
