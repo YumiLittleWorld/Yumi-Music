@@ -1,0 +1,99 @@
+{
+  "title": "Lueur calme",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 72,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "lueur-calme-20261104-101558.mscz",
+  "mid": "lueur-calme-20261104-101558.mid",
+  "pdf": "lueur-calme-20261104-101558.pdf",
+  "preview": "lueur-calme-20261104-101558.png",
+  "created_at": "2026-11-04T10:17:31+0100",
+  "updated_at": "2026-11-04T10:17:31+0100"
+}
