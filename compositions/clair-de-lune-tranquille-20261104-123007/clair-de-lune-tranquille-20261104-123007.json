@@ -1,0 +1,106 @@
+{
+  "title": "Clair de lune tranquille",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "clair-de-lune-tranquille-20261104-123007.mscz",
+  "mid": "clair-de-lune-tranquille-20261104-123007.mid",
+  "pdf": "clair-de-lune-tranquille-20261104-123007.pdf",
+  "preview": "clair-de-lune-tranquille-20261104-123007.png",
+  "created_at": "2026-11-04T12:31:40+0100",
+  "updated_at": "2026-11-04T12:31:40+0100"
+}
