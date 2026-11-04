@@ -1,0 +1,106 @@
+{
+  "title": "Gouttes sur la vitre",
+  "key": "G",
+  "scale": "major",
+  "tempo": 72,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 74,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "gouttes-sur-la-vitre-20261104-064335.mscz",
+  "mid": "gouttes-sur-la-vitre-20261104-064335.mid",
+  "pdf": "gouttes-sur-la-vitre-20261104-064335.pdf",
+  "preview": "gouttes-sur-la-vitre-20261104-064335.png",
+  "created_at": "2026-11-04T06:45:08+0100",
+  "updated_at": "2026-11-04T06:45:08+0100"
+}
