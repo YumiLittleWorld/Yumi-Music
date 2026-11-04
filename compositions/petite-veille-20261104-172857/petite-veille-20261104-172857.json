@@ -1,0 +1,71 @@
+{
+  "title": "Petite veille",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "petite-veille-20261104-172857.mscz",
+  "mid": "petite-veille-20261104-172857.mid",
+  "pdf": "petite-veille-20261104-172857.pdf",
+  "preview": "petite-veille-20261104-172857.png",
+  "created_at": "2026-11-04T17:30:30+0100",
+  "updated_at": "2026-11-04T17:30:30+0100"
+}
