@@ -1,0 +1,127 @@
+{
+  "title": "Fenêtre nocturne",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 84,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "fen-tre-nocturne-20261104-025905.mscz",
+  "mid": "fen-tre-nocturne-20261104-025905.mid",
+  "pdf": "fen-tre-nocturne-20261104-025905.pdf",
+  "preview": "fen-tre-nocturne-20261104-025905.png",
+  "created_at": "2026-11-04T03:00:38+0100",
+  "updated_at": "2026-11-04T03:00:38+0100"
+}
