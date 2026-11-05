@@ -1,0 +1,64 @@
+{
+  "title": "Petit motif calme",
+  "key": "C",
+  "scale": "major",
+  "tempo": 76,
+  "measures": 2,
+  "events": [
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "petit-motif-calme-20261105-102607.mscz",
+  "mid": "petit-motif-calme-20261105-102607.mid",
+  "pdf": "petit-motif-calme-20261105-102607.pdf",
+  "preview": "petit-motif-calme-20261105-102607.png",
+  "created_at": "2026-11-05T10:27:40+0100",
+  "updated_at": "2026-11-05T10:27:40+0100"
+}
