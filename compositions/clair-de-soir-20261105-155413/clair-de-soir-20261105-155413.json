@@ -1,0 +1,99 @@
+{
+  "title": "Clair de soir",
+  "key": "C",
+  "scale": "major",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 60,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "clair-de-soir-20261105-155413.mscz",
+  "mid": "clair-de-soir-20261105-155413.mid",
+  "pdf": "clair-de-soir-20261105-155413.pdf",
+  "preview": "clair-de-soir-20261105-155413.png",
+  "created_at": "2026-11-05T15:55:46+0100",
+  "updated_at": "2026-11-05T15:55:46+0100"
+}
