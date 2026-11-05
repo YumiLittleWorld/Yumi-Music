@@ -1,0 +1,127 @@
+{
+  "title": "Clair de passage",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    }
+  ],
+  "mscz": "clair-de-passage-20261105-014217.mscz",
+  "mid": "clair-de-passage-20261105-014217.mid",
+  "pdf": "clair-de-passage-20261105-014217.pdf",
+  "preview": "clair-de-passage-20261105-014217.png",
+  "created_at": "2026-11-05T01:43:50+0100",
+  "updated_at": "2026-11-05T01:43:50+0100"
+}
