@@ -1,0 +1,113 @@
+{
+  "title": "Fenêtre calme",
+  "key": "D",
+  "scale": "minor",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 65,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 64,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 57,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 62,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "fen-tre-calme-20261105-153915.mscz",
+  "mid": "fen-tre-calme-20261105-153915.mid",
+  "pdf": "fen-tre-calme-20261105-153915.pdf",
+  "preview": "fen-tre-calme-20261105-153915.png",
+  "created_at": "2026-11-05T15:40:48+0100",
+  "updated_at": "2026-11-05T15:40:48+0100"
+}
