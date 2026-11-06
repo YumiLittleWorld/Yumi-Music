@@ -1,0 +1,120 @@
+{
+  "title": "Petite éclaircie",
+  "key": "G",
+  "scale": "major",
+  "tempo": 76,
+  "measures": 4,
+  "events": [
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 74,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 74,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 72,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "pitch": 71,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 69,
+      "duration": [
+        1,
+        4
+      ]
+    },
+    {
+      "pitch": 67,
+      "duration": [
+        1,
+        2
+      ]
+    },
+    {
+      "rest": true,
+      "duration": [
+        1,
+        2
+      ]
+    }
+  ],
+  "mscz": "petite-claircie-20261106-013619.mscz",
+  "mid": "petite-claircie-20261106-013619.mid",
+  "pdf": "petite-claircie-20261106-013619.pdf",
+  "preview": "petite-claircie-20261106-013619.png",
+  "created_at": "2026-11-06T01:37:52+0100",
+  "updated_at": "2026-11-06T01:37:52+0100"
+}
